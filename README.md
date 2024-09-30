@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [WiFi Pentesting](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [WiFi Pentesting](https://github.com/javiercuevas24/WIFI-Pentesting/tree/main)
 - [Virtual Machine (VM)](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
