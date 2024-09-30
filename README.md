@@ -2,12 +2,12 @@
 
 <h2> 📜 Certifications:</h2>
 
- - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Google Cybersecurity Professional](link)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [WiFi Pentesting](https://github.com/javiercuevas24/WIFI-Pentesting/tree/main)
-- [Virtual Machine (VM)](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Virtual Machine (VM)]()
 
 
 <h2> 🤳 Connect with me:</h2>
