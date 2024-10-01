@@ -10,11 +10,6 @@
 - [Virtual Machine (VM)](https://github.com/javiercuevas24/Virtual-Machine-Project/tree/main)
 -  [Security Audit](https://github.com/javiercuevas24/Virtual-Machine-Project/tree/main)
 
-<h2> 🎒 Education:</h2>
-
-<b>Instituto Politecnico Nacional</b>
-<h5>Coursed high school in Mexico City at Instituto Politecnico Nacional CET 1 “Walter Cross Buchanan” and earned my diploma in Computer systems Networking.</h5>
-
 
 <h2> 🤳 Connect with me:</h2>
 
